@@ -1,0 +1,13 @@
+streamlit
+streamlit-reveal-slides
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+ucimlrepo
+altair
+pyarrow
+protobuf
+watchdog
